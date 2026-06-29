@@ -53,7 +53,7 @@ Add the ER diagram here:
 
 Add the database schema screenshot here:
 
-![Database Schema](diagram/database_schema.png)
+![Database Schema](diagram/database-schema.png)
 
 
 ## Key Features
